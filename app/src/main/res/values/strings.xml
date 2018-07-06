@@ -9,7 +9,7 @@
     <string name="weather_snowy">ic_snowy</string>
     <string name="weather_thunder">ic_thunder</string>
     <string name="weather_drizzle">ic_drizzle</string>
-    <string name = "open_weather_maps_app_id">5ac1dd70ec760d704d6379e9e4552fac</string>
-    <string name="Google_Maps_API_key">AIzaSyD26KxU-hL8T3XopRvCa2Ejy4c3RG8QKQM</string>
+    <string name = "open_weather_maps_app_id">YOUR_API_KEY_HERE</string>
+    <string name="Google_Maps_API_key">YOUR_API_KEY_HERE</string>
     <string name="place_not_found">Sorry, no weather data found.</string>
 </resources>
