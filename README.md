@@ -10,4 +10,5 @@ To use the application you'll need to make the following adjustments after cloni
 
 Note: **You need to make sure you have a Google API key with Android restriction**
   
-After you've acquired the necessary API keys, you need to place them in the strings.xml file which can be found [here] (./app/src/main/res/values/strings.xml)
+After you've acquired the necessary API keys, you need to place them in the strings.xml file which can be found 
+[here](app/src/main/res/values/strings.xml)
